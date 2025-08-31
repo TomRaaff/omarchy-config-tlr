@@ -1,0 +1,1 @@
+/home/thorff/.config/omarchy/current/theme/neovim.lua
