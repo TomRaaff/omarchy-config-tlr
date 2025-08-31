@@ -26,10 +26,10 @@ uwsm/
 walker/
 xournalpp/
 yay/
-brave-flags.conf/
-chromium-flags.conf/
-mimeapps.list/
-omarchy.ttf/
-starship.toml/
-user-dirs.dirs/
-user-dirs.locale/
+brave-flags.conf
+chromium-flags.conf
+mimeapps.list
+omarchy.ttf
+starship.toml
+user-dirs.dirs
+user-dirs.locale
