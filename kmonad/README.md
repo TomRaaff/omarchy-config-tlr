@@ -16,7 +16,4 @@ echo 'KERNEL=="uinput", MODE="0660", GROUP="uinput", OPTIONS+="static_node=uinpu
 echo uinput | sudo tee /etc/modules-load.d/uinput.conf
 ```
 
-you can now test/run/start kmonad using `kmonad ~/.config/kmmonad/main.kbd`
-
-We still need to run kmonad on startup. Add this line to the `.bashrc`.
-`kmonad $HOME/.config/kmonad/main.kbd &`
+make sure the .bashrc is installed. It contains a startup script for kmonad
